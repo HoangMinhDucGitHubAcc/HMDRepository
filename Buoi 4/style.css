@@ -1,0 +1,8 @@
+.column{height: auto; background-color: aqua; float: left; width: 50%;}
+.row{max-width: 1000px; margin: 0px- 400px; padding: 10px;}
+.display{display: flex; align-items: center; justify-content:space-evenly} 
+a {text-decoration: none; }
+h1{color: aqua;}
+p{font-family: 'Raleway', sans-serif;}
+a:hover{color: blue;}
+.content{background-color: floralwhite; padding: 10px; border: 1px saddlebrown;}
